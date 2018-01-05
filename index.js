@@ -33,4 +33,4 @@ function funkyFresh(){
 }
 //var theFunk = funkyFunction(funk())
 
-funkyFresh()
+console.log(funkyFresh())
