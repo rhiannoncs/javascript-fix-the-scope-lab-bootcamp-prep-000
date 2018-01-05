@@ -34,4 +34,3 @@ function funkyFresh(){
 }
 var theFunk = funkyFresh()
 
-console.log(theFunk)
