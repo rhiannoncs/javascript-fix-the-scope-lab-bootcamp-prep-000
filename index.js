@@ -35,7 +35,7 @@ var funkyFunction = function() {
 //var theFunk = funkyFresh()
 
 var theFunk = function () {
-  firstFunk = funkyFunction()
+  var firstFunk = funkyFunction()
   return funkyFunction(firstFunk())
 }
 
