@@ -33,5 +33,3 @@ function funkyFresh(){
   return firstFunk()
 }
 var theFunk = funkyFresh()
-
-console.log(theFunk)
